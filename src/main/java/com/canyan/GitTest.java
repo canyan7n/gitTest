@@ -9,5 +9,6 @@ public class GitTest {
         System.out.printf("", "hello change on master");
         System.out.printf("", "hello change on hotfix2");
         System.out.printf("hello change on local");
+        System.out.printf("hello change on github");
     }
 }
